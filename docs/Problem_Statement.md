@@ -1,5 +1,3 @@
-# rp-project-jogging-spots-app
-
 # Singapore Jogging Spots App - Part 1
 
 ### Description
