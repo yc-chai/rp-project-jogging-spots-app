@@ -1,4 +1,6 @@
-# Singapore Jogging Spots Application
+# rp-project-jogging-spots-app
+
+# Singapore Jogging Spots App
 
 ![JavaFX GUI Preview](image/readme/fig1.png)  
 _A Java application to track jogging spots across Singapore with console and GUI interfaces._
