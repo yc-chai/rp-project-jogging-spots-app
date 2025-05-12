@@ -1,5 +1,3 @@
-# rp-project-jogging-spots-app
-
 # Singapore Jogging Spots Application
 
 ![JavaFX GUI Preview](image/readme/fig1.png)  
