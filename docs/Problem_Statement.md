@@ -8,7 +8,7 @@ You have to implement a **menu-driven application** with the features shown in i
 
 #### Sample Menu-driven Application
 
-![Fig1](image/ps/fig1.png)
+![Fig1](/image/ps/fig1.png)
 
 For Part 1 of the Graded Assignment, you are to create a menu-driven application that would only perform **view functions**. **Add functions are NOT required**; they will be implemented only in Part 2 of the project.
 
@@ -35,19 +35,19 @@ For Part 1 of the Graded Assignment, you are to create a menu-driven application
 
 ##### Sample Data and Column Data Types of jogging_spot Table
 
-![Fig2](image/ps/fig2.png)
+![Fig2](/image/ps/fig2.png)
 
-![Fig3](image/ps/fig3.png)
+![Fig3](/image/ps/fig3.png)
 
-![Fig4](image/ps/fig4.png)
+![Fig4](/image/ps/fig4.png)
 
 ##### Sample data and column data types of unavailablity_date table
 
-![Fig5](image/ps/fig5.png)
+![Fig5](/image/ps/fig5.png)
 
-![Fig6](image/ps/fig6.png)
+![Fig6](/image/ps/fig6.png)
 
-![Fig7](image/ps/fig7.png)
+![Fig7](/image/ps/fig7.png)
 
 ---
 
@@ -105,7 +105,7 @@ The add functions will be implemented in Part 2 of the project. Refer to Part 1 
 
 - Implement a new option in your menu-driven application to add new jogging spots, as shown in Fig 8 option 3:
 
-  ![Fig8](image/ps/fig8.png)
+  ![Fig8](/image/ps/fig8.png)
 
 - Your option to add new members should prompt the user to enter the relevant information, to create members of any category (Park, Park Connector or Stadium) as required by the user.
 
@@ -121,7 +121,7 @@ The add functions will be implemented in Part 2 of the project. Refer to Part 1 
 
 ##### Sample GUI Application to Get Database Records
 
-![Fig9](image/ps/fig9.png)
+![Fig9](/image/ps/fig9.png)
 
 2. “Wow” factor – using your creativity and innovation, add functionality to your application to make it “special”. Before proceeding, do discuss with your lecturer to ensure that the scope and difficulty level of your “Wow” factor is appropriate for your application.
 
